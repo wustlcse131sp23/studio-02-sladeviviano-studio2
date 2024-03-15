@@ -59,6 +59,8 @@ public class Ruin {
 		}
 		System.out.println("Losses: " + lossCounter + " Simulations: " + simulationCounter);
 		
+		
+		// calculating expected ruin
 		double expectedRuin;
 		double alpha = ((1.0-winChance)/winChance);
 		if (winChance == 0.5)
