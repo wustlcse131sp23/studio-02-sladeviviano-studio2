@@ -35,13 +35,12 @@ public class Ruin {
 				if (random < winChance)
 				{
 					startAmount++;
-					dayCounter++;
 				}
 				else
 				{
 					startAmount--;
-					dayCounter++;
 				}
+				dayCounter++;
 			}
 			
 			simulationCounter++;
