@@ -11,7 +11,7 @@ public class Ruin {
 		System.out.print("Enter starting amount: ");
 		double startAmount = in.nextDouble();
 		
-		System.out.print("Enter win chance: ");
+		System.out.print("Enter win ch                                                                                                                                                                                ance: ");
 		double winChance = in.nextDouble();
 		
 		System.out.print("Enter win limit: ");

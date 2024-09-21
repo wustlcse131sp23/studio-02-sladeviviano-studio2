@@ -27,7 +27,6 @@ public class Pi {
 		double pi = 4.0*((double)dartsInQuarterCircle/totalDarts);		// radio of darts in circle to total darts is proportional to area of circle (pi*r^2/4 = pi/4) to the area of the square (1*1=1)
 		System.out.println(pi);
 
-
 	}
 
 }
